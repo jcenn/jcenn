@@ -2,11 +2,11 @@
 
 ## Currently interested in:
 
-- 🎮 Unity game engine / C#,
+- 🎮 Unity Game Engine / C#,
 - 🍃☕ Spring boot / Java,
 - ⚛ React JS / Javascript,
 - 📱 Flutter / dart
-
+- ⚙ Arduino / C++
 
 
 <!--
