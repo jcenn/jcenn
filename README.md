@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Currently interested in:
+
+- 🎮 Unity game engine / C#,
+- 🍃☕ Spring boot / Java,
+- ⚛ React JS / Javascript,
+- 📱 Flutter / dart
+
+
+
 <!--
 **Quuba/Quuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
