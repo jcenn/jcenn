@@ -8,9 +8,10 @@
 - 📱 Flutter / dart
 - ⚙ Arduino / C++
 
+---
 
-I'm currently working on:
-
+ ### I'm currently working on:
+- [Task Tracker](https://github.com/Quuba/task-tracker)
 
 <!-- Taken from: (https://github.com/anuraghazra/github-readme-stats) -->
 
