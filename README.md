@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-## Currently interested in:
+## Interested in:
 
 - 🎮 Unity Game Engine / C#,
 - 🍃☕ Spring boot / Java,
