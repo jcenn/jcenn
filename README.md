@@ -3,7 +3,7 @@
 ## Interested in:
 
 - 🎮 Unity Game Engine / C#,
-- 🍃☕ Spring boot / Java,
+- 🍃☕ Spring Boot / Java,
 - ⚛ React JS / Javascript,
 - 📱 Flutter / dart
 - ⚙ Arduino / C++
@@ -16,6 +16,7 @@
 --- 
 
  ### Learning:
+ - Spring Boot
  - React JS
 
 --- 
