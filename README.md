@@ -13,9 +13,17 @@
  ### I'm currently working on:
 - [Task Tracker](https://github.com/Quuba/task-tracker)
 
-<!-- Taken from: (https://github.com/anuraghazra/github-readme-stats) -->
+--- 
 
+ ### Learning:
+ - React JS
+
+--- 
+
+<!-- Taken from: (https://github.com/anuraghazra/github-readme-stats) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quuba)
+
+
 <!--
 **Quuba/Quuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
