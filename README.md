@@ -4,7 +4,7 @@
 
 - 🎮 Unity Game Engine / C#,
 - 🍃☕ Spring Boot / Java,
-- ⚛ React JS / Javascript,
+- ⚛ React / Typescript,
 - 📱 Flutter / dart
 - ⚙ Arduino / C++
 
