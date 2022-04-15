@@ -13,8 +13,7 @@
  ### I'm currently working on:
 - [Task Tracker](https://github.com/Quuba/task-tracker)
 - [Quiz app](https://github.com/Quuba/react-quiz-app)
-- [Image Renderer in wpf](https://github.com/Quuba/WpfImageRenderer)
-
+- [Social networking service]()
 --- 
 
  ### Learning:
