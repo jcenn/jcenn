@@ -6,14 +6,14 @@
 - 🍃☕ Spring Boot / Java,
 - ⚛ React / Typescript,
 - 📱 Flutter / dart
-- ⚙ Arduino / C++
+- ⚙ Arduino
 
 ---
 
  ### I'm currently working on:
 - [Task Tracker](https://github.com/Quuba/task-tracker)
 - [Quiz app](https://github.com/Quuba/react-quiz-app)
-- [Social networking service]()
+- [Social networking service](https://github.com/Quuba/social-media-app-frontend)
 --- 
 
  ### Learning:
