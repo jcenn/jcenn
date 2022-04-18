@@ -14,6 +14,8 @@
 - [Task Tracker](https://github.com/Quuba/task-tracker)
 - [Quiz app](https://github.com/Quuba/react-quiz-app)
 - [Social networking service](https://github.com/Quuba/social-media-app-frontend)
+- [Veles](https://github.com/Quuba/veles)
+
 --- 
 
  ### Learning:
