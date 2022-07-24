@@ -11,17 +11,13 @@
 ---
 
  ### I'm currently working on:
-- [Task Tracker](https://github.com/Quuba/task-tracker)
-- [Quiz app](https://github.com/Quuba/react-quiz-app)
-- [Social networking service](https://github.com/Quuba/social-media-app-frontend)
-- [Veles](https://github.com/Quuba/veles)
+ - [Favorite character picker](https://github.com/Quuba/favorite-character-picker-backend)
 
 --- 
 
  ### Learning:
- - Spring Boot
- - React JS
-
+ - .Net core
+ - Vue js
 --- 
 
 <!-- Taken from: (https://github.com/anuraghazra/github-readme-stats) -->
