@@ -3,7 +3,8 @@
 ## Interested in:
 
 - 🤖 Godot Game Engine
-- ⚛ Angular / Typescript,
+- 🟣 .Net Core
+- ⚛ Angular / Vue.js,
 - ⚙ Arduino
 
 ---
@@ -14,7 +15,7 @@
 ---  -->
 
  ### Currently learning:
- - .Net core
+ - .Net Core
  - Vue js
 --- 
 
