@@ -5,6 +5,7 @@
 - 🤖 Godot Game Engine
 - 🟣 .Net Core
 - ⚛ Angular / Vue.js,
+-  Rust
 - ⚙ Arduino
 
 ---
