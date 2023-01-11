@@ -2,20 +2,18 @@
 
 ## Interested in:
 
-- 🎮 Unity Game Engine / C#,
-- 🍃☕ Spring Boot / Java,
-- ⚛ React / Typescript,
-- 📱 Flutter / dart
+- 🤖 Godot Game Engine
+- ⚛ Angular / Typescript,
 - ⚙ Arduino
 
 ---
-
+<!-- 
  ### I'm currently working on:
  - [Favorite character picker](https://github.com/Quuba/favorite-character-picker-backend)
 
---- 
+---  -->
 
- ### Learning:
+ ### Currently learning:
  - .Net core
  - Vue js
 --- 
