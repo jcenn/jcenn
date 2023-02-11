@@ -15,10 +15,10 @@
 
 ---  -->
 
- ### Currently learning:
+<!--  ### Currently learning:
  - .Net Core
  - Vue js
---- 
+---  -->
 
 <!-- Taken from: (https://github.com/anuraghazra/github-readme-stats) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quuba)
