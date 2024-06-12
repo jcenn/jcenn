@@ -2,11 +2,11 @@
 
 ## Interested in:
 
-- 🤖 Godot Game Engine
-- 🟣 .Net Core
-- ⚛ Angular / Vue.js,
-- 🦀 Rust
-- ⚙ Arduino
+- Godot Game Engine
+- .Net Core
+- Angular / Vue.js,
+- Rust
+- Golang
 
 ---
 <!-- 
