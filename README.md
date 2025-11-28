@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-
+<!-- 
 ## Interested in:
 
 - Godot Game Engine
@@ -8,7 +8,7 @@
 - Rust
 - Golang
 
----
+--- -->
 <!-- 
  ### I'm currently working on:
  - [Favorite character picker](https://github.com/Quuba/favorite-character-picker-backend)
