@@ -4,7 +4,7 @@
 
 - Game development
 - Graphics Programming
-- Compiler
+- Compilers
 - Systems programming
 
 
