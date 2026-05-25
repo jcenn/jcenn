@@ -1,5 +1,4 @@
 <!-- ### Hi there 👋 -->
-2nd year computer science student @ Gdańsk University of Technology
 ## Interested in:
 
 - Game development
